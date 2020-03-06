@@ -1,0 +1,6 @@
+// counter.js
+let counter = 1;
+while (counter <= 10) {
+  console.log(counter);
+  counter += 1;
+}
