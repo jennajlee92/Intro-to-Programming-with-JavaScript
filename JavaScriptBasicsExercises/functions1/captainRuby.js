@@ -1,0 +1,1 @@
+console.log('Captain Ruby'.split(' ')[0] + ' JavaScript');
